@@ -1,0 +1,18 @@
+Sample input:
+> JSON:
+
+{
+  "age": 18,
+  "sex": "male",
+  "bmi": 33.77,
+  "children": 1,
+  "smoker": "no",
+  "region": "southeast"
+}
+
+Sample output:
+> JSON:
+
+{
+  "predicted_insurance_cost": 3701.06
+}
